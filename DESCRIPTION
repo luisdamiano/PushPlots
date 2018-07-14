@@ -1,0 +1,17 @@
+Package: PushPlots
+Type: Package
+Title: An easy way to upload plots to public sharing services
+Version: 0.0.1
+Author: Luis Damiano
+Maintainer: Luis Damiano <damiano.luis@gmail.com>
+Description: An easy way to upload plots to public sharing services. Currently supported services: imgur.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports:
+  clipr,
+  imguR,
+  shiny,
+  miniUI,
+  yaml
+RoxygenNote: 6.0.1

@@ -1,0 +1,9 @@
+Name: Push to imgur
+Description: Pushes current plot to imgur anonymously.
+Binding: push_imgur
+Interactive: false
+
+Name: Push to imgur (settings)
+Description: Settings for pushing current plot to imgur anonymously.
+Binding: push_imgur_config
+Interactive: false
